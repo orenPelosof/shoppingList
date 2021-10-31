@@ -1,3 +1,3 @@
 # shoppingList
-Organize your shopping list. 
+Just trying to learn how github realy works...
 Create and share shopping list divided by sections, edit or/and delete products or whatever you need to buy. 
